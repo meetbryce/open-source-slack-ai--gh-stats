@@ -1,5 +1,5 @@
 % Statistics for meetbryce/open-source-slack-ai
-% Generated for [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-18 23:06 UTC.
+% Generated for [meetbryce/open-source-slack-ai](https://github.com/meetbryce/open-source-slack-ai) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-19 23:06 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `news.ycombinator.com`, 02: `Google`, 03: `hckrnews.com`, 04: `github.com`, 05: `bryceyork.com`, 06: `linkedin.com`, 07: `discuss.pytorch.kr`, 08: `brutalist.report`, 09: `hackerweb.app`, 10: `hn.algolia.com`, 11: `chatgpt.com`, 12: `news.bensbites.com`, 13: `perplexity.ai`, 14: `serializer.io`, 15: `statics.teams.cdn.office.net`
+Top 15 referrers: 01: `news.ycombinator.com`, 02: `Google`, 03: `hckrnews.com`, 04: `github.com`, 05: `bryceyork.com`, 06: `linkedin.com`, 07: `discuss.pytorch.kr`, 08: `brutalist.report`, 09: `hackerweb.app`, 10: `hn.algolia.com`, 11: `chatgpt.com`, 12: `news.bensbites.com`, 13: `perplexity.ai`, 14: `t.co`, 15: `base.usepanda.com`
 
 
 
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `news.ycombinator.com`, 02: `Google`, 03: `hckrnews.com`, 
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/main/example.env`, 03: `/tree/main/hackathon_2023`, 04: `/blob/main/hackathon_2023/summarizer.py`, 05: `/blob/main/hackathon_2023/topic_analysis.py`, 06: `/blob/main/hackathon_2023/slack_server.py`, 07: `/blob/main/hackathon_2023/handlers.py`, 08: `/tree/main/ossai`, 09: `/blob/main/ossai/slack_context.py`, 10: `/tree/main`, 11: `/blob/main/ossai/summarizer.py`, 12: `/blob/main/hackathon_2023/utils.py`, 13: `/commits`, 14: `/tree/main/tests`, 15: `/blob/main/ossai/slack_server.py`
+Top 15 paths: 01: `/`, 02: `/blob/main/example.env`, 03: `/tree/main/hackathon_2023`, 04: `/blob/main/hackathon_2023/summarizer.py`, 05: `/blob/main/hackathon_2023/topic_analysis.py`, 06: `/blob/main/hackathon_2023/slack_server.py`, 07: `/blob/main/hackathon_2023/handlers.py`, 08: `/tree/main/ossai`, 09: `/blob/main/ossai/slack_context.py`, 10: `/tree/main`, 11: `/blob/main/hackathon_2023/utils.py`, 12: `/commits`, 13: `/blob/main/ossai/summarizer.py`, 14: `/blob/main/ossai/slack_server.py`, 15: `/issues`
 
 
 <script type="text/javascript">
